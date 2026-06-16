@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/banner.png" alt="OMBRE Banner" width="800">
-</p>
 
 <h1 align="center">OMBRE</h1>
 <p align="center">
