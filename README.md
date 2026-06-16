@@ -47,7 +47,7 @@ One of OMBRE's main mechanics is its vision-based gameplay.
 - Players must stay alert and adapt to changing battlefield conditions.
 
 ### Revealing the Battlefield
-When an enemy tank is destroyed, it leaves behind a burning wreck that acts as a permanent vision source.
+When an enemy tank is destroyed, it leaves behind a burning wreck that acts as a temporary vision source.
 
 This means:
 - The surrounding area becomes permanently revealed.
